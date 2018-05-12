@@ -26,6 +26,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Jules_Verne
     - http://en.wikipedia.org/wiki/Jules_Verne
 description: 'Translation of: L''île mystérieuse'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20331#Het-Geheimzinnige-Eiland--13-De-Luchtschipbreukelingen
 gutenberg_issued: '2007-01-11'
 gutenberg_type: Text
 identifiers:
